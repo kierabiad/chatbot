@@ -55,7 +55,7 @@ topics_responses = 'https://raw.githubusercontent.com/kierabiad/chatbot/main/con
 
 chatdata_df = pd.read_csv(topics_responses)
 
-"""# Ask about the anime Bleach"""
+"""# Dota 2 Bot"""
 
 last_query = ''
 
